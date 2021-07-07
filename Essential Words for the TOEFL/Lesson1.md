@@ -106,3 +106,48 @@
   * Susan completed the assignment in a *haphazard* way.
   
   
+## intervention  
+* ``noun``
+* **meaning:** taking action, be involved
+* **synonym:** involvement 
+* **examples:**
+  * The tutor's *intervention* helped him improve his grade.
+  * Some world leaders decide to not *intervene* in the affairs of other nations.
+  
+
+## persistent  
+* ``adjective``
+* **meaning:** continuous, refusing to give up, firm in action or decision 
+* **synonym:** constant 
+* **examples:**
+  * The attorney's *persistent* questioning unsettled the witness.
+  * Her *persistence* earned her a spot on the team.
+  
+  
+## postpone  
+* ``verb``
+* **meaning:** to change to a later time, to delay
+* **synonym:** reschedule 
+* **examples:**
+  * The referees decided to *postpone* the soccer match.
+  * The *postponement* of the meeting upset the impatient club members.
+  
+  
+## valid  
+* ``adjective``
+* **meaning:** producing a desired result based on the truths or facts
+* **synonym:** convincing 
+* **examples:**
+  * The students had a *valid* reason for missing class.
+  * The professor questioned the *validity* of the test results.
+  
+  
+## withdraw  
+* ``verb``
+* **meaning:** to remove, take out, take back
+* **synonym:** extract 
+* **examples:**
+  * The player *withdrew* from the competition.
+  * Gloria had to make a *withdrawal* from her savings to pay tuition.
+  
+  
