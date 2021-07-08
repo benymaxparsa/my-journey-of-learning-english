@@ -73,3 +73,67 @@
   * *Contemporary* architecture makes very good use of space.
   * Cervantes was a *contemporary* of Shakespeare.
   
+## distribute
+* ``verb``
+* **meaning:** to divide among people or to give out
+* **synonym:** dispense
+* **examples:**
+  * Many publishers now *distribute* their newspapers via the Internet.
+  * The *distribution* of seeds is very quick with this new machine.
+  
+## encourage
+* ``verb``
+* **meaning:** to promote, help, or support 
+* **synonym:** stimulate
+* **examples:**
+  * The government cut taxes in order to *encourage* spending.
+  * The professor gave each student the *encouragement* that was needed to learn the material.
+  
+## energetic
+* ``adjective``
+* **meaning:** full of life, action, or power
+* **synonym:** vigorous
+* **examples:**
+  * Sam hasn't been as *energetic* as he usually is.
+  * There's a lot of energy in these batteries.
+  
+## frail
+* ``adjective``
+* **meaning:** 
+* **synonym:** 
+* **examples:**
+  * 
+  * 
+  
+## 
+* ````
+* **meaning:** 
+* **synonym:** 
+* **examples:**
+  * 
+  * 
+  
+## 
+* ````
+* **meaning:** 
+* **synonym:** 
+* **examples:**
+  * 
+  * 
+  
+## 
+* ````
+* **meaning:** 
+* **synonym:** 
+* **examples:**
+  * 
+  * 
+  
+## 
+* ````
+* **meaning:** 
+* **synonym:** 
+* **examples:**
+  * 
+  * 
+  
