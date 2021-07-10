@@ -99,41 +99,41 @@
   
 ## frail
 * ``adjective``
-* **meaning:** 
-* **synonym:** 
+* **meaning:** weak in health or in body
+* **synonym:** fragile
 * **examples:**
-  * 
-  * 
+  * The *frail* wings of the newborn bird could not lift it off the ground.
+  * One of the *frailties* of human beings is laziness.
   
-## 
-* ````
-* **meaning:** 
-* **synonym:** 
+## heyday
+* ``noun``
+* **meaning:** a high point of success or abundance
+* **synonym:** pinnacle
 * **examples:**
-  * 
-  * 
+  * Many settlers became rich during the *heyday* of the California gold rush of the 1800s.
+  * We are living in the *heyday* of digital communications.
   
-## 
-* ````
-* **meaning:** 
-* **synonym:** 
+## myth
+* ``noun``
+* **meaning:** an invented story or idea
+* **synonym:** legend
 * **examples:**
-  * 
-  * 
+  * throughout history *myths* were created in an attempt to explain many common natural occurrences.
+  * *Mythology* is the study of legends and fables.
   
-## 
-* ````
-* **meaning:** 
-* **synonym:** 
+## refine
+* ``verb``
+* **meaning:** to make pure, to improve
+* **synonym:** perfect
 * **examples:**
-  * 
-  * 
+  * Factories must *refine* oil before it can be used as fuel.
+  * A squirt if lime juice is the perfect *refinement* to cola.
   
-## 
-* ````
-* **meaning:** 
-* **synonym:** 
+## worthwhile
+* ``adjective``
+* **meaning:** value in doing something
+* **synonym:** rewarding
 * **examples:**
-  * 
-  * 
+  * It was *worthwhile* waiting ten hours in line for the tickets.
+  * It's *worthwhile* to prepare for the TOEFL.
   
