@@ -70,67 +70,67 @@
   * The fine arts *enrich* our lives.
   * The discovery of oil was an *enrichment* for the country.
   
-##   
-* ````
-* **meaning:** 
-* **synonym:** 
+## intensify
+* ``verb``
+* **meaning:** to make stronger in feeling or quality
+* **synonym:** heighten
 * **examples:**
-  * 
-  * 
+  * The importance of the test will sometimes *intensify* the nervousness of the students.
+  * The chess match was played with great *intensity*.
   
-##   
-* ````
-* **meaning:** 
-* **synonym:** 
+## intolerable
+* ``adjective``
+* **meaning:** difficult or painful to experience, not able to accept different ways of thought or behavior
+* **synonym:** unbearable
 * **examples:**
-  * 
-  * 
+  * Any opposition to the rules is *intolerable*.
+  * His boss was *intolerant* of his tardiness.
   
-##   
-* ````
-* **meaning:** 
-* **synonym:** 
+## ongoing
+* ``adjective``
+* **meaning:** continuing
+* **synonym:** current
 * **examples:**
-  * 
-  * 
+  * The tutoring project is an *ongoing* program of the school.
+  * Maintaining roads is an *ongoing* job.
   
-##   
-* ````
-* **meaning:** 
-* **synonym:** 
+## potential
+* ``noun``
+* **meaning:** an ability, happening, or opportunity that has not occurred or been developed
+* **synonym:** possibility
 * **examples:**
-  * 
-  * 
+  * The medical students have shown great *potential* to become doctors.
+  * Small space heaters are a *potential* fire hazard.
   
-##   
-* ````
-* **meaning:** 
-* **synonym:** 
+## propose
+* ``verb``
+* **meaning:** to suggest or plan to do something
+* **synonym:** suggest
 * **examples:**
-  * 
-  * 
+  * The governor is going to *propose* new taxes.
+  * Her *Proposal* was well accepted.
   
-##   
-* ````
-* **meaning:** 
-* **synonym:** 
+## restore
+* ``verb``
+* **meaning:** to give back or bring back something, to return to the original condition
+* **synonym:** revitalize
 * **examples:**
-  * 
-  * 
+  * He *restored* my confidence in him.
+  * It is a beautiful *restoration* of the old table.
   
-##   
-* ````
-* **meaning:** 
-* **synonym:** 
+## turbulent
+* ``adjective``
+* **meaning:** to be in a disordered, disturbed, or unstable condition
+* **synonym:** chaotic
 * **examples:**
-  * 
-  * 
+  * The plane flew through an area of *turbulence*.
+  * The *turbulent* crowd insisted on a meeting with the prime minister.
   
-##   
-* ````
-* **meaning:** 
-* **synonym:** 
+## vital
+* ``adjective``
+* **meaning:** of great importance, full of life
+* **synonym:** indispensable
 * **examples:**
-  * 
-  * 
+  * Money is *vital* to the success of the program.
+  * His intense *vitality* was easily observable.
   
